@@ -8,4 +8,4 @@ I'm a very intellectually curious and passionate coder who enjoys finding useful
 TODO
 
 # Contact Me
-The best place to reach me is my email [benjaeger99+gh.public@gmail.com](mailto:benjaeger99+gh.public@gmail.com) (the "+gh.public" lets me know you came from here!). I also have a twitter account I occasionally use [@ItsBenJaeger]](twitter.com/ItsBenJaeger)
+The best place to reach me is my email [benjaeger99+gh.pub@gmail.com](mailto:benjaeger99+gh.pub@gmail.com) (the "+gh.pub" lets me know you came from here!). I also have a twitter account I occasionally use [@ItsBenJaeger](twitter.com/ItsBenJaeger)
