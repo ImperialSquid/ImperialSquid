@@ -7,5 +7,5 @@ I'm a very intellectually curious and passionate coder who enjoys finding useful
 # Projects
 TODO
 
-# Coontact Me
+# Contact Me
 The best place to reach me is my email [mailto:benjaeger99+gh.public@gmail.com](benjaeger99+gh.public@gmail.com) (the "+gh.public" lets me know you came from here!). I also have a twitter account I occasionally use [@ItsBenJaeger]](twitter.com/ItsBenJaeger)
