@@ -6,6 +6,9 @@ I'm an intellectually curious and passionate coder who enjoys finding useful sol
 
 # Projects
 ## ZoTTS
+[![Zotero target version 7](https://img.shields.io/badge/Zotero-7-green?style=flat-square&logo=zotero&logoColor=CC2936)](https://www.zotero.org)
+![ZoTTS downloads latest] (https://img.shields.io/badge/Zotero-7-green?style=flat-square&logo=zotero&logoColor=CC2936)
+
 ZoTTS is a plugin that adds text to speech functionality to Zotero. Check it out [here](https://github.com/ImperialSquid/zotero-zotts)!
 
 # Contact Me
