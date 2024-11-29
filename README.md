@@ -7,9 +7,10 @@ I'm an intellectually curious and passionate coder who enjoys finding useful sol
 # Projects
 ## ZoTTS
 [![Zotero target version 7](https://img.shields.io/badge/Zotero-7-green?style=flat-square&logo=zotero&logoColor=CC2936)](https://www.zotero.org)
-![ZoTTS downloads latest](https://img.shields.io/github/downloads/imperialsquid/zotero-zotts/latest/total)
+![ZoTTS downloads latest](https://img.shields.io/github/downloads/imperialsquid/zotero-zotts/latest/total) ![ZoTTS repo stars](https://img.shields.io/github/stars/ImperialSquid/zotero-zotts?style=flat-square)
+
 
 ZoTTS is a plugin that adds text to speech functionality to Zotero. Check it out [here](https://github.com/ImperialSquid/zotero-zotts)!
 
 # Contact Me
-The best place to reach me is my email [benjaeger99+gh.pub@gmail.com](mailto:benjaeger99+gh.pub@gmail.com) (the "+gh.pub" lets me know you came from here!). I also have a twitter account I occasionally use [@ItsBenJaeger](twitter.com/ItsBenJaeger)
+The best place to reach me is my email [benjaeger99+gh.pub@gmail.com](mailto:benjaeger99+gh.pub@gmail.com) (the "+gh.pub" lets me know you came from here!).
