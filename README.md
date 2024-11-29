@@ -6,8 +6,7 @@ I'm an intellectually curious and passionate coder who enjoys finding useful sol
 
 # Projects
 ## ZoTTS
-[![Zotero target version 7](https://img.shields.io/badge/Zotero-7-green?style=flat-square&logo=zotero&logoColor=CC2936)](https://www.zotero.org)
-![ZoTTS downloads latest](https://img.shields.io/github/downloads/imperialsquid/zotero-zotts/latest/total) ![ZoTTS repo stars](https://img.shields.io/github/stars/ImperialSquid/zotero-zotts?style=flat-square)
+[![Zotero target version 7](https://img.shields.io/badge/Zotero-7-green?style=flat-square&logo=zotero&logoColor=CC2936)](https://www.zotero.org) ![ZoTTS downloads latest](https://img.shields.io/github/downloads/ImperialSquid/zotero-zotts/latest/total?style=flat-square) ![ZoTTS repo stars](https://img.shields.io/github/stars/ImperialSquid/zotero-zotts?style=flat-square)
 
 
 ZoTTS is a plugin that adds text to speech functionality to Zotero. Check it out [here](https://github.com/ImperialSquid/zotero-zotts)!
